@@ -4,7 +4,7 @@ export default function Weather() {
     <div>
       <form>
         <input type="search" placeholder="Enter your city here ..." />
-        <button type="submit">Search</button>
+        <button type="submit">Search++</button>
       </form>
     </div>
   );
