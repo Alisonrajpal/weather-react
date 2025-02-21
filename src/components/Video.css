@@ -1,0 +1,16 @@
+.video_wrap {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video_wrap video {
+  position: absolute;
+}
+.video_wrap .Weather {
+  z-index: 1;
+}
+
